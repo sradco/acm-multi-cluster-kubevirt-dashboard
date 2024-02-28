@@ -1,6 +1,6 @@
 # ACM Dashboard for OpenShift Virtualization
 
-
+![OpenShift Virtualization Overview dashboard](/images/dashboard-screenshot.png)
 
 ## Requirements
 * [OpenShift](https://www.openshift.com/)
