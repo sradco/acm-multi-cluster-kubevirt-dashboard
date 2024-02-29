@@ -46,5 +46,5 @@ oc apply -n open-cluster-management-observability -f observability-metrics-custo
 
 ### Load the OpenShift Virtualization Overview dashboard
 ```
-oc create -f config-files/openshift-virtualization-overview.yaml
+oc create -f config-files/acm---openshift-virtualization---openshift-virtualization-overview.yaml
 ```
